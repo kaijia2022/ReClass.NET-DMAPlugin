@@ -1,0 +1,17 @@
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\DMAPlugin.dll
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\DMAPlugin.pdb
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\ReClass.NET.exe
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\vmmsharp.exe
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\Microsoft.ExceptionMessageBox.dll
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\ColorCode.dll
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\vmmsharp.pdb
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\vmmsharp.exe.config
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\ReClass.NET.pdb
+D:\ReClass.NET-DMAPlugin\bin\x64\Debug\ReClass.NET.exe.config
+D:\ReClass.NET-DMAPlugin\obj\x64\Debug\DMAPlugin.csproj.AssemblyReference.cache
+D:\ReClass.NET-DMAPlugin\obj\x64\Debug\DMAPlugin.Properties.Resources.resources
+D:\ReClass.NET-DMAPlugin\obj\x64\Debug\DMAPlugin.csproj.GenerateResource.cache
+D:\ReClass.NET-DMAPlugin\obj\x64\Debug\DMAPlugin.csproj.CoreCompileInputs.cache
+D:\ReClass.NET-DMAPlugin\obj\x64\Debug\DMAPlugin.csproj.Up2Date
+D:\ReClass.NET-DMAPlugin\obj\x64\Debug\DMAPlugin.dll
+D:\ReClass.NET-DMAPlugin\obj\x64\Debug\DMAPlugin.pdb
