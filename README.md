@@ -25,5 +25,5 @@ A plugin for ReClass.Net that enables memory input from DMA physical memory acqu
 ..\MemProcFS\memprocfs\memprocfs.vcxproj
 ```
 ## Known Issues
-- Icon and Path are not supported Process Browser form
+- Icon and Path are not supported in the Process Browser form
 - Due to dependencies to `vmm.dll` and `leechcore.dll`, the plugin is x64 only.
