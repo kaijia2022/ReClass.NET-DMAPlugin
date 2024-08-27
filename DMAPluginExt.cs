@@ -237,7 +237,7 @@ namespace DMAPlugin
 
             foreach (MAP_VADENTRY vad in mVad)
             {
-                if (vad.fImage)
+                if (vad.CommitCharge <= 0)
                     continue;
                 
                 var section = new EnumerateRemoteSectionData
@@ -251,12 +251,12 @@ namespace DMAPlugin
                     section.Type = SectionType.Mapped;
                     section.Category = SectionCategory.Unknown;
                 }
-                else if (vad.fHeap)
+                else if (vad.fPrivateMemory)
                 {
                     section.Type = SectionType.Private;
                     section.Category = SectionCategory.HEAP;
                 }
-                else if (vad.fStack || vad.fPrivateMemory || vad.fTeb || vad.fPageFile)
+                else if (vad.fStack || vad.fTeb || vad.fPageFile)
                 {
                     section.Type = SectionType.Private;
                     section.Category = SectionCategory.DATA;
